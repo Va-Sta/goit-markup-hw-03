@@ -303,7 +303,7 @@ a {
 
 .portfolio-item {
   gap: 24px;
-  flex-basis: calc((100% - 3 * 24px) / 3);
+  width: calc((100% - 48px) / 3);
 }
 
 .portfolio-card-content {
